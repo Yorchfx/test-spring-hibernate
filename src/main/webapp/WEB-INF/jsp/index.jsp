@@ -15,5 +15,12 @@
                 the redirection in</i> <tt>redirect.jsp</tt> <i>to point to the new
                 welcome page and also update the welcome-file setting in</i>
             <tt>web.xml</tt>.</p>
+        
+        <h1>Hola Mundo!</h1>
+        <div id="header">header</div>
+        <div id="menu">Menu</div>
+        <div id="body">Body</div>
+        <div id="footer">Footer</div>
+        
     </body>
 </html>
