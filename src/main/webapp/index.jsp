@@ -8,7 +8,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Hola Mundo!</h1>
         <div id="header">header</div>
         <div id="menu">Menu</div>
         <div id="body">Body</div>
